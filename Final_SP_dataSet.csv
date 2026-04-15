@@ -1,13 +1,13 @@
 ﻿Age,Gender,Stress Level,Academic Performance,Health Condition,Relationship Condition,Family Problem,Depression Level,Anxiety Level,Mental Support,Self Harm Story,Suicide Attempt
-22,Female,Low,Good ,Normal,In a relationship,None,Always,Always,Family,No,Never Thought
-23,Male,High,Good ,Fair,Single,None,Always,Often,loneliness,Yes,Attempted
-19,Female,Moderate,Poor,Normal,Breakup,Parental conflict,Often,Often,Friends,Yes,Thought
-18,Female,High,Average,Abnormal,Single,Financial,Always,Often,loneliness,Yes,Thought
+16,Female,Low,Good ,Normal,In a relationship,None,Always,Always,Family,No,Never Thought
+,Male,High,Good ,Fair,Single,None,Always,Often,loneliness,Yes,Attempted
+,Female,Moderate,Poor,Normal,Breakup,Parental conflict,Often,Often,Friends,Yes,Thought
+1O,Female,High,Average,Abnormal,Single,Financial,Always,Often,loneliness,Yes,Thought
 19,Female,Low,Good ,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
-21,Female,Low,Excellent,Normal,In a relationship,Financial,Sometimes,Sometimes,Friends,No,Never Thought
-20,Female,High,Poor,Abnormal,Breakup,Financial,Always,Sometimes,loneliness,Yes,Attempted
-25,Female,High,Average,Abnormal,Breakup,None,Often,Often,loneliness,Yes,Attempted
-25,Male,Moderate,Average,Normal,Single,Parental conflict,Sometimes,Sometimes,Friends,No,Never Thought
+2O,Female,Low,Excellent,Normal,In a relationship,Financial,Sometimes,Sometimes,Friends,No,Never Thought
+20,Female,Hig,Poor,Abnormal,Breakup,Financial,Always,Sometimes,loneliness,Yes,Attempted
+2Z,Female,High,Average,Abnormal,Breakup,None,Often,Often,loneliness,Yes,Attempted
+25,Male,Moderate,Average,Norma,Single,Parental conflict,Sometimes,Sometimes,Friends,No,Never Thought
 23,Male,High,Poor,Fair,In a relationship,Financial,Often,Always,loneliness,Yes,Attempted
 20,Male,High,Average,Normal,Breakup,Financial,Often,Always,loneliness,Yes,Attempted
 23,Male,Moderate,Good ,Abnormal,Single,Parental conflict,Often,Always,loneliness,Yes,Attempted
@@ -22,14 +22,14 @@
 21,Female,Moderate,Poor,Fair,Single,Parental conflict,Always,Often,loneliness,Yes,Attempted
 25,Male,Moderate,Average,Normal,Single,Financial,Often,Always,Friends,Yes,Attempted
 27,Female,Moderate,Average,Normal,In a relationship,Financial,Sometimes,Often,Friends,No,Never Thought
-21,Male,High,Average,Abnormal,Breakup,Parental conflict,Always,Often,loneliness,Yes,Attempted
-28,Female,Low,Good ,Abnormal,Breakup,Financial,Often,Sometimes,loneliness,No,Thought
+21,Male,High,Averag,Abnormal,Breakup,Parental conflict,Always,Often,loneliness,Yes,Attempted
+28,Female,Low,Good ,Abnormal,Breakup,inancial,Often,Sometimes,loneliness,No,Thought
 24,Male,High,Good ,Normal,Breakup,Financial,Always,Often,loneliness,Yes,Attempted
 25,Female,Moderate,Average,Normal,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
 23,Female,Low,Poor,Fair,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
 24,Female,Moderate,Average,Abnormal,Breakup,None,Often,Often,Family,Yes,Thought
 24,Female,Low,Good ,Fair,In a relationship,None,Sometimes,Sometimes,Friends,No,Never Thought
-19,Female,Moderate,Poor,Normal,In a relationship,Parental conflict,Often,Often,Friends,Yes,Thought
+19,Female,Moderate,Poor,Normal,In a relationship, conflict,Often,Ofte,Friends,Yes,Thought
 26,Female,Moderate,Average,Normal,Breakup,None,Always,Often,loneliness,No,Thought
 26,Female,Low,Average,Fair,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
 19,Female,Moderate,Good ,Normal,Single,Financial,Often,Sometimes,Friends,No,Never Thought
@@ -57,7 +57,7 @@
 23,Male,Moderate,Poor,Normal,Single,None,Sometimes,Often,loneliness,Yes,Thought
 22,Male,Moderate,Poor,Normal,Breakup,Parental conflict,Often,Sometimes,loneliness,Yes,Thought
 25,Male,Moderate,Good ,Abnormal,Breakup,Financial,Sometimes,Often,Family,No,Thought
-27,Male,High,Good ,Normal,Breakup,Parental conflict,Often,Sometimes,loneliness,No,Thought
+27,Male,High,Good ,,Breakup,Parental conflict,Often,Sometimes,loneliness,No,Thought
 21,Male,Moderate,Poor,Normal,In a relationship,None,Sometimes,Often,loneliness,Yes,Thought
 24,Male,Moderate,Good ,Abnormal,Breakup,None,Often,Sometimes,loneliness,Yes,Thought
 22,Male,Moderate,Excellent,Abnormal,Single,Parental conflict,Sometimes,Often,loneliness,Yes,Thought
@@ -76,7 +76,7 @@
 20,Male,Moderate,Poor,Normal,Single,None,Sometimes,Often,Friends,No,Never Thought
 24,Male,Low,Excellent,Fair,Breakup,None,Sometimes,Sometimes,Friends,No,Never Thought
 23,Male,Low,Poor,Normal,In a relationship,None,Sometimes,Often,Family,No,Never Thought
-23,Male,Moderate,Average,Normal,Breakup,None,Sometimes,Often,Friends,No,Never Thought
+,Male,Moderate,Average,Normal,Breakup,None,Sometimes,Often,Friends,No,Never Thought
 21,Male,Moderate,Poor,Normal,Single,Financial,Often,Often,Friends,No,Never Thought
 22,Male,Moderate,Poor,Normal,Single,Financial,Sometimes,Sometimes,Friends,No,Never Thought
 27,Male,Moderate,Average,Fair,Single,Financial,Often,Often,loneliness,No,Never Thought
@@ -104,7 +104,7 @@
 21,Female,Moderate,Average,Normal,In a relationship,Financial,Often,Sometimes,Friends,No,Thought
 25,Female,High,Poor,Fair,In a relationship,Parental conflict,Often,Sometimes,Friends,No,Thought
 23,Female,Moderate,Average,Normal,Single,Parental conflict,Sometimes,Often,loneliness,No,Thought
-22,Female,Moderate,Good ,Abnormal,In a relationship,Parental conflict,Often,Often,Friends,No,Thought
+22,,Moderate,Good ,Abnormal,In a relationship,Parental conflict,Often,Often,Friends,No,Thought
 18,Female,Moderate,Average,Normal,Breakup,None,Often,Often,loneliness,Yes,Thought
 18,Female,Moderate,Poor,Normal,In a relationship,Parental conflict,Sometimes,Often,Family,Yes,Thought
 19,Female,High,Poor,Normal,Single,Parental conflict,Often,Often,Friends,No,Thought
@@ -139,7 +139,7 @@
 20,Female,Moderate,Average,Fair,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
 19,Female,Low,Excellent,Fair,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
 19,Female,Moderate,Good ,Normal,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
-20,Female,Moderate,Excellent,Normal,Single,None,Sometimes,Sometimes,Friends,No,Never Thought
+,Female,Moderate,Excellent,Normal,Single,None,Sometimes,Sometimes,Friends,No,Never Thought
 20,Female,Low,Average,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
 21,Female,Low,Excellent,Abnormal,Single,None,Sometimes,Sometimes,Family,No,Never Thought
 22,Female,Moderate,Average,Fair,Breakup,None,Sometimes,Sometimes,Family,No,Never Thought
@@ -186,7 +186,7 @@
 22,Male,Low,Good ,Normal,Breakup,Financial,Sometimes,Often,Friends,No,Never Thought
 24,Male,Low,Excellent,Normal,In a relationship,Financial,Sometimes,Sometimes,Friends,No,Never Thought
 22,Male,Moderate,Poor,Normal,In a relationship,Parental conflict,Often,Often,Friends,No,Never Thought
-23,Male,Low,Excellent,Fair,Single,None,Sometimes,Often,Family,No,Never Thought
+,Male,Low,Excellent,Fair,Single,None,Sometimes,Often,Family,No,Never Thought
 23,Male,Low,Excellent,Normal,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
 24,Male,Low,Good ,Abnormal,Single,Parental conflict,Often,Sometimes,Friends,No,Never Thought
 23,Male,Low,Poor,Normal,Single,None,Sometimes,Sometimes,Family,No,Never Thought
@@ -194,7 +194,7 @@
 21,Male,Moderate,Excellent,Normal,Breakup,Financial,Sometimes,Sometimes,loneliness,No,Never Thought
 22,Male,Low,Good ,Abnormal,Breakup,Financial,Often,Often,Friends,No,Never Thought
 24,Male,Moderate,Poor,Fair,In a relationship,Parental conflict,Sometimes,Often,Friends,No,Never Thought
-25,Male,Low,Good ,Normal,In a relationship,Parental conflict,Sometimes,Often,Friends,No,Never Thought
+25,Male,Low,Good ,Normal,,Parental conflict,Sometimes,Often,Friends,No,Never Thought
 22,Male,Moderate,Good ,Abnormal,Single,Financial,Sometimes,Sometimes,Friends,No,Never Thought
 26,Male,Low,Excellent,Fair,In a relationship,Parental conflict,Often,Sometimes,Friends,No,Never Thought
 21,Male,High,Poor,Abnormal,Breakup,Financial,Often,Always,loneliness,Yes,Attempted
@@ -211,7 +211,7 @@
 23,Male,Low,Excellent,Normal,Breakup,None,Often,Often,Family,No,Never Thought
 23,Male,Low,Average,Fair,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
 23,Male,Moderate,Excellent,Fair,Single,Financial,Sometimes,Often,Friends,No,Never Thought
-24,Male,Moderate,Poor,Normal,Single,Parental conflict,Often,Often,Friends,No,Never Thought
+24,Male,Moderate,Poor,Normal,,Parental conflict,Often,Often,Friends,No,Never Thought
 24,Male,Moderate,Good ,Normal,Single,Parental conflict,Often,Sometimes,Friends,No,Never Thought
 21,Male,Moderate,Poor,Abnormal,Single,Financial,Often,Often,Family,No,Never Thought
 22,Male,Low,Excellent,Fair,Single,None,Sometimes,Sometimes,Friends,No,Never Thought
@@ -225,7 +225,7 @@
 21,Male,Low,Excellent,Normal,In a relationship,Financial,Sometimes,Sometimes,Friends,No,Never Thought
 18,Female,Low,Excellent,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
 19,Female,Low,Good ,Normal,Single,None,Sometimes,Sometimes,Family,No,Never Thought
-20,Female,Low,Average,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
+20,Female,Low,Average,Fair,,None,Sometimes,Sometimes,Family,No,Never Thought
 21,Female,Low,Average,Fair,In a relationship,None,Sometimes,Sometimes,Friends,No,Never Thought
 21,Female,Low,Excellent,Abnormal,Single,None,Sometimes,Sometimes,Family,No,Never Thought
 22,Female,Moderate,Average,Abnormal,In a relationship,Parental conflict,Sometimes,Sometimes,Friends,No,Never Thought
@@ -241,7 +241,7 @@
 18,Female,Low,Average,Normal,Single,Financial,Often,Sometimes,Friends,No,Never Thought
 19,Female,Low,Excellent,Normal,Single,Financial,Sometimes,Sometimes,Friends,No,Never Thought
 20,Female,Low,Average,Fair,In a relationship,None,Sometimes,Sometimes,Friends,No,Never Thought
-21,Female,Low,Excellent,Fair,In a relationship,Parental conflict,Sometimes,Sometimes,Friends,No,Never Thought
+21,Female,Low,,Fair,In a relationship,Parental conflict,Sometimes,Sometimes,Friends,No,Never Thought
 22,Female,Low,Average,Fair,In a relationship,None,Sometimes,Sometimes,Friends,No,Never Thought
 22,Female,Low,Poor,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
 22,Female,Low,Excellent,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
@@ -276,7 +276,7 @@
 25,Female,Moderate,Poor,Abnormal,In a relationship,Financial,Often,Often,Friends,Yes,Thought
 26,Female,Moderate,Poor,Abnormal,In a relationship,Financial,Often,Sometimes,Friends,No,Thought
 27,Female,Moderate,Poor,Fair,Breakup,Financial,Often,Sometimes,loneliness,Yes,Thought
-25,Female,Moderate,Average,Fair,Breakup,Parental conflict,Sometimes,Always,loneliness,Yes,Thought
+25,Female,,Average,Fair,Breakup,Parental conflict,Sometimes,Always,loneliness,Yes,Thought
 26,Female,Moderate,Poor,Abnormal,In a relationship,Parental conflict,Always,Sometimes,Friends,No,Thought
 21,Male,High,Poor,Normal,Single,Parental conflict,Often,Sometimes,loneliness,No,Attempted
 22,Male,High,Poor,Fair,In a relationship,Financial,Often,Often,loneliness,Yes,Attempted
@@ -325,7 +325,7 @@
 23,Male,Moderate,Poor,Normal,Single,Financial,Sometimes,Sometimes,Friends,No,Never Thought
 22,Male,Low,Excellent,Normal,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
 22,Male,Moderate,Good ,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
-22,Male,Moderate,Good ,Normal,Single,Financial,Sometimes,Sometimes,Family,No,Never Thought
+22,Male,Moderate,,Normal,Single,Financial,Sometimes,Sometimes,Family,No,Never Thought
 21,Male,Low,Good ,Normal,Breakup,Parental conflict,Often,Often,Friends,No,Never Thought
 23,Male,Low,Excellent,Normal,In a relationship,None,Sometimes,Often,Family,No,Never Thought
 23,Male,Moderate,Good ,Normal,In a relationship,Parental conflict,Sometimes,Sometimes,Friends,No,Never Thought
@@ -373,7 +373,7 @@
 25,Male,Moderate,Good ,Normal,Single,Parental conflict,Sometimes,Sometimes,Friends,No,Never Thought
 25,Male,Low,Excellent,Fair,In a relationship,Financial,Sometimes,Often,Friends,No,Never Thought
 22,Male,Low,Excellent,Fair,Breakup,None,Sometimes,Sometimes,Friends,No,Never Thought
-23,Male,Moderate,Poor,Normal,In a relationship,Financial,Sometimes,Often,Friends,No,Never Thought
+23,Male,Moderate,Poor,Normal,In a relationship,Financial,Sometimes,Often,,No,Never Thought
 25,Male,Low,Poor,Normal,In a relationship,None,Sometimes,Sometimes,Friends,No,Never Thought
 25,Male,Low,Average,Normal,Single,Financial,Sometimes,Sometimes,Family,No,Never Thought
 23,Male,Low,Average,Normal,In a relationship,Financial,Sometimes,Often,Friends,No,Never Thought
@@ -393,12 +393,12 @@
 25,Male,Moderate,Poor,Abnormal,Single,None,Sometimes,Sometimes,loneliness,No,Thought
 25,Male,Moderate,Poor,Normal,In a relationship,None,Sometimes,Often,Friends,No,Thought
 23,Male,Moderate,Average,Normal,In a relationship,None,Sometimes,Often,Family,No,Thought
-21,Male,Low,Excellent,Normal,In a relationship,Financial,Sometimes,Often,Friends,No,Thought
+21,Male,Low,Excellent,Normal,In a relationship,Financial,,Often,Friends,No,Thought
 26,Male,Moderate,Excellent,Fair,Single,Financial,Sometimes,Often,Friends,No,Thought
 23,Male,Moderate,Poor,Fair,Breakup,Financial,Sometimes,Often,Friends,No,Thought
 22,Male,Moderate,Excellent,Normal,Single,Parental conflict,Always,Often,Friends,No,Thought
 21,Male,Moderate,Excellent,Fair,Single,Parental conflict,Sometimes,Often,Friends,No,Thought
-21,Male,Moderate,Poor,Abnormal,In a relationship,None,Sometimes,Sometimes,Friends,No,Thought
+21,Male,Moderate,Poor,Abnormal,In a relationship,None,Sometimes,,Friends,No,Thought
 22,Male,Moderate,Average,Normal,In a relationship,Financial,Sometimes,Often,Friends,No,Thought
 23,Male,Moderate,Excellent,Normal,In a relationship,Parental conflict,Often,Often,Friends,No,Thought
 23,Male,Moderate,Poor,Normal,Breakup,None,Sometimes,Sometimes,Family,No,Thought
@@ -448,7 +448,7 @@
 24,Male,Low,Poor,Normal,Breakup,Parental conflict,Often,Often,Friends,No,Never Thought
 23,Male,Low,Good ,Normal,Single,None,Sometimes,Often,Family,No,Never Thought
 23,Male,Low,Excellent,Normal,In a relationship,Parental conflict,Sometimes,Often,Friends,No,Never Thought
-23,Male,Low,Excellent,Normal,Single,Parental conflict,Sometimes,Sometimes,Friends,No,Never Thought
+23,Male,Low,Excellent,Normal,Single,Parental conflict,Sometimes,Sometimes,,No,Never Thought
 22,Male,Moderate,Good ,Normal,Single,None,Sometimes,Sometimes,Friends,No,Never Thought
 23,Male,Moderate,Good ,Normal,In a relationship,Financial,Sometimes,Always,Friends,No,Never Thought
 23,Male,Low,Excellent,Normal,In a relationship,None,Sometimes,Sometimes,Friends,No,Never Thought
@@ -471,7 +471,7 @@
 23,Male,Low,Excellent,Abnormal,Single,None,Sometimes,Sometimes,Family,No,Never Thought
 23,Male,Low,Excellent,Normal,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
 24,Male,Low,Excellent,Fair,In a relationship,Financial,Sometimes,Often,Friends,No,Never Thought
-21,Male,Low,Average,Normal,Single,Parental conflict,Often,Sometimes,Friends,No,Never Thought
+21,Male,Low,Average,Normal,Single,Parental conflict,,Sometimes,Friends,No,Never Thought
 23,Male,Moderate,Poor,Normal,In a relationship,Financial,Often,Sometimes,Family,No,Never Thought
 23,Male,Moderate,Good ,Normal,In a relationship,Parental conflict,Sometimes,Sometimes,Friends,No,Never Thought
 24,Male,Moderate,Poor,Abnormal,Breakup,None,Sometimes,Sometimes,Family,No,Never Thought
@@ -497,7 +497,7 @@
 24,Male,Moderate,Poor,Normal,Single,Financial,Sometimes,Always,Family,No,Thought
 23,Male,Moderate,Excellent,Normal,In a relationship,Financial,Often,Always,Friends,No,Thought
 23,Male,Moderate,Good ,Normal,Breakup,Parental conflict,Sometimes,Always,Friends,No,Thought
-21,Male,High,Poor,Fair,In a relationship,Financial,Sometimes,Sometimes,Friends,No,Thought
+21,Male,High,Poor,Fair,In a relationship,,Sometimes,Sometimes,Friends,No,Thought
 21,Male,Moderate,Poor,Abnormal,Single,None,Sometimes,Sometimes,Friends,No,Thought
 24,Male,Moderate,Average,Fair,Single,Parental conflict,Often,Sometimes,Friends,No,Thought
 23,Male,High,Good ,Fair,Single,Financial,Sometimes,Sometimes,Friends,No,Thought
@@ -560,7 +560,7 @@
 23,Male,Low,Good ,Fair,Breakup,Parental conflict,Sometimes,Always,Friends,No,Never Thought
 22,Male,Low,Poor,Normal,Breakup,None,Sometimes,Sometimes,Friends,No,Never Thought
 23,Male,Low,Good ,Fair,In a relationship,Parental conflict,Sometimes,Sometimes,Friends,No,Never Thought
-21,Male,Low,Average,Normal,In a relationship,None,Always,Often,Friends,No,Never Thought
+21,Male,Low,Average,Normal,In a relationship,None,,Often,Friends,No,Never Thought
 22,Male,Low,Excellent,Normal,Single,None,Sometimes,Always,Family,No,Never Thought
 21,Male,Low,Average,Normal,Single,None,Sometimes,Often,Friends,No,Never Thought
 24,Male,Moderate,Good ,Normal,Single,None,Sometimes,Often,Friends,No,Never Thought
@@ -589,7 +589,7 @@
 24,Male,High,Poor,Abnormal,Breakup,Financial,Sometimes,Often,loneliness,Yes,Attempted
 22,Male,High,Good ,Fair,Single,Financial,Often,Always,loneliness,Yes,Attempted
 21,Male,High,Excellent,Fair,Breakup,Parental conflict,Always,Always,loneliness,Yes,Attempted
-23,Male,High,Average,Normal,Breakup,Parental conflict,Often,Always,loneliness,Yes,Attempted
+23,Male,High,Average,Normal,Breakup,Parental ,Often,Always,loneliness,Yes,Attempted
 22,Male,High,Average,Fair,Single,Financial,Always,Always,loneliness,Yes,Attempted
 21,Male,Moderate,Good ,Normal,Breakup,None,Often,Often,Family,No,Thought
 21,Male,Moderate,Poor,Normal,Breakup,None,Often,Sometimes,Friends,No,Thought
@@ -655,7 +655,7 @@
 23,Male,Moderate,Good ,Normal,In a relationship,None,Sometimes,Sometimes,Friends,No,Never Thought
 23,Male,Low,Poor,Normal,In a relationship,Financial,Sometimes,Often,Friends,No,Never Thought
 24,Male,Low,Average,Fair,Single,Parental conflict,Often,Sometimes,Friends,No,Never Thought
-22,Male,Moderate,Excellent,Abnormal,Single,None,Sometimes,Often,Family,No,Never Thought
+22,Male,Moderate,Excellent,,Single,None,Sometimes,Often,Family,No,Never Thought
 23,Male,Low,Good ,Abnormal,Breakup,None,Sometimes,Sometimes,Family,No,Never Thought
 24,Male,Low,Average,Normal,Breakup,None,Often,Sometimes,Friends,No,Never Thought
 24,Male,Low,Excellent,Normal,Single,Financial,Sometimes,Often,Family,No,Never Thought
@@ -663,7 +663,7 @@
 23,Male,Low,Good ,Normal,Breakup,Financial,Sometimes,Sometimes,Friends,No,Never Thought
 23,Male,Low,Poor,Normal,Single,None,Sometimes,Sometimes,Family,No,Never Thought
 21,Male,Low,Excellent,Normal,In a relationship,Financial,Sometimes,Always,Friends,No,Never Thought
-25,Male,Low,Good ,Fair,In a relationship,Parental conflict,Sometimes,Often,Friends,No,Never Thought
+25,Male,Low,Good ,Fair,In a relationship,Parental ,Sometimes,Often,Friends,No,Never Thought
 21,Male,Low,Average,Normal,Single,Financial,Sometimes,Often,Friends,No,Never Thought
 23,Male,Moderate,Excellent,Fair,Breakup,Parental conflict,Often,Always,Friends,No,Never Thought
 23,Male,Moderate,Poor,Normal,Single,Financial,Sometimes,Sometimes,Friends,No,Never Thought
@@ -722,7 +722,7 @@
 23,Male,Moderate,Good ,Normal,Single,None,Sometimes,Sometimes,Friends,No,Never Thought
 21,Male,Moderate,Good ,Abnormal,Single,Financial,Always,Often,Friends,No,Never Thought
 21,Male,Low,Good ,Normal,Breakup,None,Sometimes,Sometimes,Family,No,Never Thought
-22,Male,Low,Good ,Abnormal,Breakup,Financial,Always,Sometimes,Family,No,Never Thought
+22,Male,Low,Good ,Abnormal,Breakup,Financial,Always,,Family,No,Never Thought
 21,Male,Low,Excellent,Fair,Single,None,Sometimes,Sometimes,Friends,No,Never Thought
 21,Male,Low,Good ,Normal,In a relationship,Parental conflict,Always,Often,Friends,No,Never Thought
 21,Male,Low,Average,Normal,In a relationship,None,Always,Often,Friends,No,Never Thought
@@ -756,7 +756,7 @@
 24,Male,Low,Good ,Fair,Breakup,None,Sometimes,Sometimes,Friends,No,Never Thought
 23,Male,Low,Poor,Normal,In a relationship,Parental conflict,Often,Always,Family,No,Never Thought
 24,Male,Moderate,Excellent,Normal,Single,None,Sometimes,Sometimes,Friends,No,Never Thought
-22,Male,Low,Good ,Fair,In a relationship,None,Sometimes,Often,Friends,No,Never Thought
+22,Male,Low,Good ,Fair,,None,Sometimes,Often,Friends,No,Never Thought
 21,Male,Low,Good ,Normal,Single,Parental conflict,Always,Often,loneliness,No,Never Thought
 22,Male,Low,Excellent,Normal,In a relationship,Parental conflict,Often,Sometimes,Friends,No,Never Thought
 22,Male,Low,Good ,Fair,Single,None,Sometimes,Often,Friends,No,Never Thought
@@ -785,7 +785,7 @@
 23,Male,Moderate,Excellent,Normal,Single,Financial,Often,Often,Family,No,Never Thought
 23,Male,Low,Good ,Fair,Breakup,Financial,Often,Always,Family,No,Never Thought
 23,Male,Low,Average,Normal,Single,Financial,Sometimes,Sometimes,Friends,No,Never Thought
-21,Male,Low,Poor,Fair,Single,Financial,Sometimes,Sometimes,Friends,No,Never Thought
+21,Male,Low,Poor,,Single,Financial,Sometimes,Sometimes,Friends,No,Never Thought
 22,Male,Low,Poor,Fair,In a relationship,None,Sometimes,Always,Friends,No,Never Thought
 22,Male,Low,Excellent,Normal,In a relationship,Parental conflict,Often,Sometimes,Friends,No,Never Thought
 25,Male,Low,Excellent,Normal,In a relationship,Parental conflict,Often,Always,Friends,No,Never Thought
@@ -850,7 +850,7 @@
 21,Female,Low,Poor,Abnormal,Breakup,None,Sometimes,Often,Family,No,Never Thought
 21,Female,Low,Excellent,Fair,In a relationship,Financial,Sometimes,Often,Family,No,Never Thought
 22,Female,Moderate,Good ,Normal,Single,None,Always,Often,Friends,No,Never Thought
-21,Female,Low,Average,Fair,Single,None,Always,Often,Friends,No,Never Thought
+21,Female,Low,Average,Fair,Single,None,,Often,Friends,No,Never Thought
 22,Female,Low,Excellent,Normal,In a relationship,None,Often,Sometimes,Family,No,Never Thought
 21,Female,Low,Excellent,Normal,Single,Financial,Often,Often,Friends,No,Never Thought
 22,Female,Low,Good ,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
@@ -983,7 +983,7 @@
 24,Female,Low,Poor,Normal,In a relationship,Financial,Always,Often,Friends,No,Never Thought
 23,Female,Low,Excellent,Fair,In a relationship,None,Sometimes,Always,Family,No,Never Thought
 23,Female,Low,Poor,Normal,In a relationship,Financial,Often,Sometimes,Friends,No,Never Thought
-23,Female,Moderate,Good ,Normal,Single,None,Sometimes,Often,Family,No,Never Thought
+23,Female,Moderate,Good ,,Single,None,Sometimes,Often,Family,No,Never Thought
 23,Female,Low,Poor,Normal,In a relationship,Financial,Always,Sometimes,Friends,No,Never Thought
 22,Female,Low,Good ,Normal,Breakup,None,Sometimes,Often,Friends,No,Never Thought
 21,Female,Low,Poor,Normal,In a relationship,Financial,Often,Always,Friends,No,Never Thought
@@ -997,7 +997,7 @@
 25,Female,Low,Good ,Abnormal,In a relationship,None,Often,Often,Friends,No,Never Thought
 21,Female,Low,Good ,Normal,Single,None,Sometimes,Often,Family,No,Never Thought
 21,Female,Low,Poor,Normal,Single,None,Often,Often,Friends,No,Never Thought
-20,Female,Low,Good ,Normal,In a relationship,Financial,Sometimes,Sometimes,Family,No,Never Thought
+20,Female,Low,Good ,Normal,,Financial,Sometimes,Sometimes,Family,No,Never Thought
 20,Female,Low,Good ,Fair,Single,Parental conflict,Often,Sometimes,Friends,No,Never Thought
 22,Female,Low,Good ,Fair,Breakup,None,Always,Often,Friends,No,Never Thought
 24,Female,Low,Good ,Fair,Single,None,Often,Sometimes,Friends,No,Never Thought
@@ -1013,7 +1013,7 @@
 23,Female,High,Poor,Normal,Single,Financial,Always,Often,loneliness,Yes,Attempted
 24,Female,High,Average,Normal,In a relationship,Parental conflict,Often,Always,loneliness,Yes,Attempted
 24,Female,High,Poor,Fair,In a relationship,Parental conflict,Always,Often,loneliness,Yes,Attempted
-25,Female,High,Good ,Fair,Single,Financial,Always,Often,loneliness,Yes,Attempted
+25,,High,Good ,Fair,Single,Financial,Always,Often,loneliness,Yes,Attempted
 22,Female,High,Poor,Fair,In a relationship,Parental conflict,Often,Always,loneliness,Yes,Attempted
 22,Female,Moderate,Average,Abnormal,Breakup,Financial,Often,Often,Friends,No,Thought
 24,Female,Moderate,Poor,Fair,Single,Parental conflict,Always,Often,loneliness,No,Thought
@@ -1045,7 +1045,7 @@
 23,Female,Moderate,Poor,Fair,In a relationship,None,Sometimes,Sometimes,Family,No,Never Thought
 24,Female,Low,Excellent,Abnormal,Single,None,Sometimes,Sometimes,Family,No,Never Thought
 25,Female,Low,Average,Fair,In a relationship,None,Sometimes,Sometimes,Friends,No,Never Thought
-25,Female,Low,Good ,Normal,Single,None,Sometimes,Sometimes,Family,No,Never Thought
+25,Female,Low,Good ,Normal,Single,None,Sometimes,Sometimes,,No,Never Thought
 22,Female,Low,Average,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
 23,Female,Low,Average,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
 22,Female,Low,Excellent,Fair,Single,None,Sometimes,Sometimes,Family,No,Never Thought
@@ -1073,7 +1073,7 @@
 21,Female,Low,Good ,Normal,In a relationship,Financial,Often,Sometimes,Family,No,Thought
 20,Female,Low,Good ,Normal,In a relationship,Financial,Sometimes,Often,Family,No,Never Thought
 20,Female,Moderate,Good ,Normal,Single,Parental conflict,Often,Sometimes,Friends,No,Thought
-22,Female,Low,Average,Normal,Single,Financial,Sometimes,Sometimes,Friends,No,Never Thought
+22,Female,Low,Average,Normal,Single,Financial,,Sometimes,Friends,No,Never Thought
 19,Female,Low,Average,Fair,In a relationship,None,Sometimes,Sometimes,Friends,No,Never Thought
 22,Female,Moderate,Poor,Normal,Single,None,Often,Always,Family,No,Thought
 19,Female,Low,Excellent,Fair,In a relationship,None,Sometimes,Sometimes,Friends,No,Never Thought
@@ -1097,4 +1097,5 @@
 22,Female,Moderate,Average,Fair,Single,Parental conflict,Sometimes,Often,Friends,No,Thought
 23,Female,Moderate,Excellent,Fair,Single,None,Often,Often,Family,No,Thought
 25,Female,Moderate,Good ,Normal,Single,None,Sometimes,Sometimes,Friends,No,Thought
-23,Female,Moderate,Poor,Fair,In a relationship,Financial,Sometimes,Often,Friends,No,Thought
+2O,Female,,Poor,Fair,In a relationship,Financial,Sometimes,Often,Friends,No,Thought
+
